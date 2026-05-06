@@ -1,0 +1,12 @@
+once we click on fe, it will trigger on fe, trigger in middle, trigger in backend
+
+not cond statement = else is not statement
+
+for loop - can count
+while loop - waiting certain logic
+python debugger - can still find unlimited loop error
+syntax 
+
+git add . - add all
+git commit -m "your comment"
+git push

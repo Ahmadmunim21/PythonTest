@@ -10,3 +10,23 @@ syntax
 git add . - add all
 git commit -m "your comment"
 git push
+
+
+git config - login to email to connect
+commit - simple summary - first commit then new add commit like version when we add features on something we can commit -m
+
+multiple data, have oa have data structure
+empty_list - manipulate empty list for data
+.dort - ascending number n alphabet
+
+U - untrack, new file not in github repo
+M - modify
+A - added
+
+-1  - last item
+0   - 1st item
+
+Ctrl / - add remove #(comment)
+
+tuples-immutable - cannot change, view only. store read and view
+ store historical data such as financial records
